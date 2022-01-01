@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73895a07-4553-4e40-819f-d862360df181" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/formsothich.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lubalubu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formsothich.html" beforeDir="false" afterPath="$PROJECT_DIR$/formsothich.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1640925418125</updated>
       <workItem from="1640925419382" duration="1144000" />
-      <workItem from="1640932064242" duration="6255000" />
+      <workItem from="1640932064242" duration="8172000" />
+      <workItem from="1641002287479" duration="1687000" />
     </task>
     <servers />
   </component>
